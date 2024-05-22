@@ -1,7 +1,7 @@
 {
   "name": "nightscout-connect",
-  "version": "0.0.12",
-  "description": "Connect common cloud platforms to Nightscout.",
+  "version": "0.0.14",
+  "description": "Connect common cloud platforms to Nightscout. A Dana RS / Glooko Fork.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nightscout/nightscout-connect.git"
+    "url": "https://github.com/funkstille/nightscout-connect.git"
   },
   "bugs": {
-    "url": "https://github.com/nightscout/nightscout-connect/issues"
+    "url": "https://github.com/funkstille/nightscout-connect/issues"
   },
-  "homepage": "https://github.com/nightscout/nightscout-connect",
+  "homepage": "https://github.com/funkstille/nightscout-connec",
   "author": {
-    "name": "Ben West",
-    "email": "bewest@medicaldatanetworks.com",
-    "url": "https://github.com/bewest"
+    "name": "Funk Stille",
+    "email": "chrode@web.de",
+    "url": "https://github.com/funkstille"
   },
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
