@@ -1,6 +1,6 @@
 {
   "name": "nightscout-connect",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Connect common cloud platforms to Nightscout. A Dana RS / Glooko Fork.",
   "main": "index.js",
   "directories": {
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/funkstille/nightscout-connect/issues"
   },
-  "homepage": "https://github.com/funkstille/nightscout-connec",
+  "homepage": "https://github.com/funkstille/nightscout-connect",
   "author": {
     "name": "Funk Stille",
     "email": "chrode@web.de",
