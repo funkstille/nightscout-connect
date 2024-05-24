@@ -1,6 +1,6 @@
 {
   "name": "nightscout-connect",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Connect common cloud platforms to Nightscout. A Dana RS / Glooko Fork.",
   "main": "index.js",
   "directories": {
